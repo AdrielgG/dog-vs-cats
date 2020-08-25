@@ -10,6 +10,10 @@ INSTALE AS DEPENDÊNCIAS:
 
 (env) $ pip install -r requirements.txt
 
+BAIXE O DATASET:
+
+https://www.kaggle.com/tongpython/cat-and-dog
+
 RODE A APLICAÇÃO:
 
 (env) $ python app.py
