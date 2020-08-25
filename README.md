@@ -16,4 +16,4 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 RODE A APLICAÇÃO:
 
-(env) $ python app.py
+(env) $ python DogVsCats.ipynb
